@@ -1,6 +1,6 @@
 ---
 title: 流式布局-Flex
-date: 2018-05-20 17:22:51
+date: 2017-09-20 17:22:51
 tags: 布局
 ---
 
@@ -10,6 +10,9 @@ tags: 布局
 		任何容器都可以用flex布局 设置 display：flex;(行内元素也可以设置flex布局，display：inline-flex)
 
 	注意：设为 Flex 布局以后，子元素的float、clear和vertical-align属性将失效。
+
+
+<!-- more -->
 
 ## 基本概念
 	flex布局元素称为flex容器，默认存在两根轴，水平的主轴(main axis)和垂直的交叉轴(cross axis)，
